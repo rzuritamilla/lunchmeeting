@@ -4,7 +4,7 @@
 @color[white](R. Aguilar, L. Calisto, E. Izquierdo-Verdiguier,  R. Kounadi, J.A. Padron, L. Quesada, & R. Zurita-Milla)
 
 
-<span class="byline lowernote">@color[white]([in alphabetical order])</span>
+<span class="smalltext">@color[white]([in alphabetical order])</span>
 ##### @color[white](18 June 2018) 
 
 ---
@@ -32,8 +32,8 @@ Come up with 2-4 questions related to research
 - How ...
 - How ... 
 - How ...
-<br>
-<span class="byline lowernote">@fa[arrow-circle-down]Check below...</span>
+<br><br>
+<span class="smallText"> @fa[arrow-circle-down]Check below...</span>
 
 +++
 ### All questions#2 
