@@ -2,24 +2,24 @@
 @title[lunchmeeting]
 ### @color[white](How do we do science?)
 ###### @color[white](R. Aguilar, L. Calisto, E. Izquierdo-Verdiguier, R. Kounadi, J.A. Padron, L. Quesada, & R. Zurita-Milla)
-<span class="byline lowernote"> @color[white][ in alphabetical order] </span>
+@color[white]<span class="byline lowernote">[ in alphabetical order]</span>
 ###### @color[white](18 June 2018) 
 
 ---
 ### Point of departure
 
-To come up with 2-4 questions related to research that start with “How…?”.
+Come up with 2-4 questions related to research
 
 <div class="left">
 	<ul>
-        <li>how to you store and use your references?</li>
+        <li>How to you store and use your references?</li>
         <li>How do you keep up to date regarding new publications/works in your domain?</li>
     </ul>
 </div>
 
 <div class="right">
     <ul>
-        <li>- how do you define and select research ideas for your own papers? </li>
+        <li>How do you define and select research ideas for your own papers? </li>
     </ul>
 </div>
 
