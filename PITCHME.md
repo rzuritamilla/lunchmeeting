@@ -2,7 +2,7 @@
 @title[lunchmeeting]
 ### @color[white](How do we do science?)
 ###### @color[white](R. Aguilar, L. Calisto, E. Izquierdo-Verdiguier, R. Kounadi, J.A. Padron, L. Quesada, & R. Zurita-Milla)
-@color[white]<span class="byline lowernote">[ in alphabetical order]</span>
+@color[white]<span class="byline lowernote">[in alphabetical order]</span>
 ###### @color[white](18 June 2018) 
 
 ---
