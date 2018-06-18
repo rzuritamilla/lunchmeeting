@@ -2,21 +2,26 @@
 @title[lunchmeeting]
 ### @color[white](How do we do science?)
 ###### @color[white](R. Aguilar, L. Calisto, E. Izquierdo-Verdiguier, R. Kounadi, J.A. Padron, L. Quesada, & R. Zurita-Milla)
-<span class="byline lowernote">[ in alphabetical order] </span>
+<span class="byline lowernote"> @color[white][ in alphabetical order] </span>
 ###### @color[white](18 June 2018) 
 
 ---
 ### Point of departure
-> To come up with 2-4 questions related to research that start with “How…?”.
-> 
-> Pragmatic examples: 
-> 
-> - how to you store and use your references? 
-> - How do you keep up to date regarding new publications/works in your domain? 
-> 
-> High level example:
-> 
-> - how do you define and select research ideas for your own papers? 
+
+To come up with 2-4 questions related to research that start with “How…?”.
+
+<div class="left">
+	<ul>
+        <li>how to you store and use your references?</li>
+        <li>How do you keep up to date regarding new publications/works in your domain?</li>
+    </ul>
+</div>
+
+<div class="right">
+    <ul>
+        <li>- how do you define and select research ideas for your own papers? </li>
+    </ul>
+</div>
 
 ---
 ### All questions 
