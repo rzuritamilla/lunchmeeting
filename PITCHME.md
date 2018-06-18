@@ -61,7 +61,7 @@ Come up with 2-4 questions related to research
 2. k1=k1
 3. magic & magicians
 
----?image=figures/That_s_all_folks.png&size=cover
+---?image=figures/wtf_cat.jpeg&size=cover
 @title[end]
 <br><br>
 <br><br>
