@@ -67,7 +67,8 @@ Come up with 2-4 questions related to research
 <br><br>
 <br><br>
 <br><br>
-@color[white](@fa[envelope] r.zurita-milla@utwente.nl)
+@color[white](@fa[link][ Discover it here](https://gitpitch.com/rzuritamilla/testdiapo/))
+
 
 
 
