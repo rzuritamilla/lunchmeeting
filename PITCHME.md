@@ -4,7 +4,7 @@
 @color[white](R. Aguilar, L. Calisto, E. Izquierdo-Verdiguier,  R. Kounadi, J.A. Padron, L. Quesada, & R. Zurita-Milla)
 
 
-<span class="smalltext">@color[white]([in alphabetical order])</span>
+<span class="smallText">@color[white]([in alphabetical order])</span>
 ##### @color[white](18 June 2018) 
 
 ---
