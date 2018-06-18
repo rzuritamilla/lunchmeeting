@@ -32,27 +32,15 @@ Come up with 2-4 questions related to research
 - How ...
 - How ... 
 - How ...
+<span class="byline lowernote">@fa[arrow-circle-down]Check below...</span>
 
----
-### All questions (2 cols)
-@title[questions 2 cols]
-How ...
-
-<div class="left">
-	<ul>
-        <li>bla</li>
-        <li>‎blabla</li>
-        <li>blablabla</li>
-    </ul>
-</div>
-
-<div class="right">
-    <ul>
-        <li>bla</li>
-        <li>‎blabla</li>
-        <li>blablabla</li>
-    </ul>
-</div>
++++
+### All questions#2 
+@title[questions2]
+- How ... 
+- How ...
+- How ... 
+- How ...
 
 ---
 ### Selected questions 
