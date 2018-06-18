@@ -68,7 +68,7 @@ Come up with 2-4 questions related to research
 <br><br>
 <br><br>
 @ul
-@color[blue](@fa[link][Discover it here](https://gitpitch.com/rzuritamilla/testdiapo))
+@fa[link][Discover it here](https://gitpitch.com/rzuritamilla/testdiapo/)
 @ulend
 
 
